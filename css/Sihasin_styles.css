@@ -109,47 +109,6 @@ p1 {
     
     }
 
-  p4 {
-    /* This site contains information on how Indigenous people lived before colonization and how we can use those lessons as a reference for making a better future. */
-  
-  position: absolute;
-  width: 1288px;
-  height: 62px;
-  left: 76px;
-  top: 463px;
-  
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 31px;
-  letter-spacing: 0.03em;
-  
-  color: #000000;
-  
-  
-  }
-  
-  p5 {
-    /* Sihasin is also a reference for those who wish to learn more about their own tribes. */
-  
-  position: absolute;
-  width: 1288px;
-  height: 31px;
-  left: 76px;
-  top: 544px;
-  
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 31px;
-  letter-spacing: 0.03em;
-  
-  color: #000000;
-  
-  
-  }
   
   .go-btn {
     position: relative
