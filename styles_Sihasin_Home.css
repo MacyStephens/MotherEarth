@@ -1,0 +1,151 @@
+body {
+  background-color: lightblue;
+}
+p1 {
+    /* Sihasin */
+
+  position: absolute;
+  width: 271px;
+  height: 91px;
+  left: 76px;
+  top: 206px;
+
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 91px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
+
+p2 {
+    /* Hope */
+
+  position: absolute;
+  width: 107px;
+  height: 52px;
+  left: 358px;
+  top: 237px;
+
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+
+  color: rgba(46, 6, 78, 0.79);
+
+}
+
+p3 {
+  /* Sihasin is the Diné Bizaad (Navajo) word for hope. This project imagines the future of environmental restoration through an indigenous lens, inspired by Indigenous Futurism. To find ways of combating climate change and making the Earth a better place, it is necessary to include Indigenous voices, who have been caring for the land long before colonizers came. */
+
+position: absolute;
+width: 1288px;
+height: 124px;
+left: 76px;
+top: 320px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: 0.03em;
+
+color: #000000;
+
+}
+
+p4 {
+  /* This site contains information on how Indigenous people lived before colonization and how we can use those lessons as a reference for making a better future. */
+
+position: absolute;
+width: 1288px;
+height: 62px;
+left: 76px;
+top: 463px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: 0.03em;
+
+color: #000000;
+
+
+}
+
+p5 {
+  /* Sihasin is also a reference for those who wish to learn more about their own tribes. */
+
+position: absolute;
+width: 1288px;
+height: 31px;
+left: 76px;
+top: 544px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: 0.03em;
+
+color: #000000;
+
+
+}
+
+.btn {
+  /* Go */
+
+position: absolute;
+width: 298px;
+height: 91px;
+left: 76px;
+top: 615px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 282px;
+height: 91px;
+left: 76px;
+top: 615px;
+
+background: rgba(46, 6, 78, 0.76);
+border-radius: 20px;
+
+
+/* Diné/Navajo */
+
+position: absolute;
+width: 283px;
+height: 52px;
+left: 91px;
+top: 635px;
+text-align: center;
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+}
