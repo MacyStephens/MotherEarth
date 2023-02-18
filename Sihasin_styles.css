@@ -186,3 +186,43 @@ body {
   color: #000000;
 
 }
+
+p8 {/* “Indigenous Futurism envisions narratives and environments—built and natural—to realize architectural sovereignty, guided by the lenses of technology, alternative worlds, science fiction, and studies of temporality.” -New York Center for Architecture */
+
+position: absolute;
+width: 1288px;
+height: 93px;
+left: 76px;
+top: 320px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: right;
+letter-spacing: 0.03em;
+
+color: #000000;
+}
+
+p9 {
+  /* Many indigenous people utilize sci-fi to envision futures that amplify and understand Native voices. From Chakotay of Star Trek to the 2022 film Prey, Indigenous people are involved in many sci-fi and futurist ideas. A list of examples of this genre and movement can be seen in the links below. */
+
+position: absolute;
+width: 945px;
+height: 124px;
+left: 76px;
+top: 450px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: 0.03em;
+
+color: #000000;
+
+
+}
