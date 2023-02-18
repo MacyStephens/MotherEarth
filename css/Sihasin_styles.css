@@ -3,7 +3,7 @@ body {
   }
 
 .nav-background{
-    background-image: url("galaxy.jpg");
+    background-image: url("../img/galaxy.jpg");
     background-size: cover;
     min-height: 100%;
 }
@@ -18,23 +18,13 @@ body {
     vertical-align: middle;
 }
 
-.homeland-img{
+.img{
   /* navajo-map-introduction-source-A-lg 1 */
-  position: absolute;
-  width: 911px;
-  height: 553px;
-  left: 264px;
-  top: 419px;
-
-  background: url(navajo-map-introduction-source-A-lg.png);
+  position: relative;
 }
 
 .big-caption {
-  position: absolute;
-  width: 1036px;
-  height: 52px;
-  left: 202px;
-  top: 1035px;
+  position: relative;
 
   font-family: 'IBM Plex Serif';
   font-style: normal;
@@ -48,14 +38,16 @@ body {
   color: #000000;
 }
 
+.body {
+  position: absolute;
+  top: 125px;
+  left: 50px;
+}
+
 p1 {
   /* Big Title */
   
-  position: absolute;
-  width: 230px;
-  height: 91px;
-  left: 76px;
-  top: 206px;
+  position: relative;
   
   font-family: 'IBM Plex Serif';
   font-style: normal;
@@ -71,11 +63,8 @@ p1 {
   p2 {
       /* Sub header */
   
-    position: absolute;
-    width: 107px;
-    height: 52px;
-    left: 358px;
-    top: 237px;
+    position: relative;
+    padding-left: 20px;
   
     font-family: 'IBM Plex Serif';
     font-style: normal;
@@ -89,14 +78,9 @@ p1 {
   
   }
   
-  p3 {
-    /* text */
-  
-  position: absolute;
-  width: 1288px;
-  height: 124px;
-  left: 76px;
-  top: 320px;
+  .ptext {
+  /* text */
+  position: relative;
   
   font-family: 'IBM Plex Sans';
   font-style: normal;
@@ -109,6 +93,22 @@ p1 {
   
   }
   
+  .rtext {
+    /* right aligned text */
+    position: relative;
+    text-align: right;
+    
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    
+    color: #000000;
+    
+    }
+
   p4 {
     /* This site contains information on how Indigenous people lived before colonization and how we can use those lessons as a reference for making a better future. */
   
@@ -151,48 +151,8 @@ p1 {
   
   }
   
-  .btn {
-    /* Go */
-  
-  position: absolute;
-  width: 298px;
-  height: 91px;
-  left: 76px;
-  top: 615px;
-  
-  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-  
-  
-  /* Rectangle 2 */
-  
-  position: absolute;
-  width: 282px;
-  height: 91px;
-  left: 76px;
-  top: 615px;
-  
-  background: rgba(46, 6, 78, 0.76);
-  border-radius: 20px;
-  
-  
-  /* Diné/Navajo */
-  
-  position: absolute;
-  width: 283px;
-  height: 52px;
-  left: 91px;
-  top: 635px;
-  text-align: center;
-  font-family: 'IBM Plex Serif';
-  font-style: normal;
-  font-weight: 600;
-  font-size: 40px;
-  line-height: 52px;
-  /* identical to box height */
-  letter-spacing: 0.03em;
-  
-  color: #FFFFFF;
-  
-  
-  
+  .go-btn {
+    position: relative
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   }
