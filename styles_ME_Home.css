@@ -1,0 +1,140 @@
+body {
+    background-color: lightblue;
+  }
+  
+  p1 { 
+    /* Diné */
+    position: absolute;
+    width: 169px;
+    height: 91px;
+    left: 76px;
+    top: 169px;
+
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 91px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    color: #000000;
+
+
+  }
+  p2 {
+    /* /Navajo */
+
+position: absolute;
+width: 157px;
+height: 52px;
+left: 245px;
+top: 200px;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: rgba(46, 6, 78, 0.79);
+
+
+}
+
+  
+p3 {
+    /* The Diné people were a semi-nomadic group connected to the larger Pueblo tribes. They generally lived around what is now known as Colorado, Arizona, Utah and New Mexico. */
+
+position: absolute;
+width: 1288px;
+height: 62px;
+left: 76px;
+top: 283px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: 0.03em;
+
+color: #000000;
+
+
+  }
+
+img1 {
+  /* navajo-map-introduction-source-A-lg 1 */
+
+  position: absolute;
+  width: 911px;
+  height: 553px;
+  left: 264px;
+  top: 386px;
+
+  background: url(navajo-map.jpg);
+
+}
+
+p4{
+  /* What the Diné can teach us about the environment */
+
+  position: absolute;
+  width: 1036px;
+  height: 52px;
+  left: 202px;
+  top: 1002px;
+
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+
+  color: #000000;
+
+ } 
+
+ .button{
+  /* Go */
+
+  position: absolute;
+  width: 142px;
+  height: 91px;
+  left: 648px;
+  top: 1074px;
+  
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  
+  
+  /* Rectangle 2 */
+  
+  position: absolute;
+  width: 142px;
+  height: 91px;
+  left: 648px;
+  top: 1074px;
+  
+  background: rgba(46, 6, 78, 0.76);
+  border-radius: 20px;
+  
+  /* Go > */
+  position: absolute;
+  width: 113.83px;
+  height: 52px;
+  left: 663px;
+  top: 1094px;
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: #FFFFFF; 
+ }
