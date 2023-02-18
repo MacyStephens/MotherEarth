@@ -166,3 +166,23 @@ body {
   
   
   }
+  
+ p7 {
+  /* Indigenous Futurism */
+  position: absolute;
+  width: 764px;
+  height: 91px;
+  left: 52px;
+  top: 214px;
+
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 91px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+
+  color: #000000;
+
+}
