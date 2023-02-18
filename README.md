@@ -1,2 +1,2 @@
 # MotherEarth
-Website for Hackathons project
+Website for Hackathons project Created By Macy Stephens and Nazhone
