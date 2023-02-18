@@ -18,28 +18,58 @@ body {
     vertical-align: middle;
 }
 
-  p1 {
-      /* Sihasin */
+.homeland-img{
+  /* navajo-map-introduction-source-A-lg 1 */
+  position: absolute;
+  width: 911px;
+  height: 553px;
+  left: 264px;
+  top: 419px;
+
+  background: url(navajo-map-introduction-source-A-lg.png);
+}
+
+.big-caption {
+  position: absolute;
+  width: 1036px;
+  height: 52px;
+  left: 202px;
+  top: 1035px;
+
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
+
+p1 {
+  /* Big Title */
   
-    position: absolute;
-    width: 271px;
-    height: 91px;
-    left: 76px;
-    top: 206px;
+  position: absolute;
+  width: 230px;
+  height: 91px;
+  left: 76px;
+  top: 206px;
   
-    font-family: 'IBM Plex Serif';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 70px;
-    line-height: 91px;
-    /* identical to box height */
-    letter-spacing: 0.03em;
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 91px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
   
-    color: #000000;
-  }
+  color: #000000;
+}
   
   p2 {
-      /* Hope */
+      /* Sub header */
   
     position: absolute;
     width: 107px;
@@ -60,7 +90,7 @@ body {
   }
   
   p3 {
-    /* Sihasin is the Diné Bizaad (Navajo) word for hope. This project imagines the future of environmental restoration through an indigenous lens, inspired by Indigenous Futurism. To find ways of combating climate change and making the Earth a better place, it is necessary to include Indigenous voices, who have been caring for the land long before colonizers came. */
+    /* text */
   
   position: absolute;
   width: 1288px;
@@ -166,63 +196,3 @@ body {
   
   
   }
-  
- p7 {
-  /* Indigenous Futurism */
-  position: absolute;
-  width: 764px;
-  height: 91px;
-  left: 52px;
-  top: 214px;
-
-  font-family: 'IBM Plex Serif';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 70px;
-  line-height: 91px;
-  /* identical to box height */
-  letter-spacing: 0.03em;
-
-  color: #000000;
-
-}
-
-p8 {/* “Indigenous Futurism envisions narratives and environments—built and natural—to realize architectural sovereignty, guided by the lenses of technology, alternative worlds, science fiction, and studies of temporality.” -New York Center for Architecture */
-
-position: absolute;
-width: 1288px;
-height: 93px;
-left: 76px;
-top: 320px;
-
-font-family: 'IBM Plex Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 31px;
-text-align: right;
-letter-spacing: 0.03em;
-
-color: #000000;
-}
-
-p9 {
-  /* Many indigenous people utilize sci-fi to envision futures that amplify and understand Native voices. From Chakotay of Star Trek to the 2022 film Prey, Indigenous people are involved in many sci-fi and futurist ideas. A list of examples of this genre and movement can be seen in the links below. */
-
-position: absolute;
-width: 945px;
-height: 124px;
-left: 76px;
-top: 450px;
-
-font-family: 'IBM Plex Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 31px;
-letter-spacing: 0.03em;
-
-color: #000000;
-
-
-}
