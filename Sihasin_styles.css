@@ -18,28 +18,58 @@ body {
     vertical-align: middle;
 }
 
-  p1 {
-      /* Sihasin */
+.homeland-img{
+  /* navajo-map-introduction-source-A-lg 1 */
+  position: absolute;
+  width: 911px;
+  height: 553px;
+  left: 264px;
+  top: 419px;
+
+  background: url(navajo-map-introduction-source-A-lg.png);
+}
+
+.big-caption {
+  position: absolute;
+  width: 1036px;
+  height: 52px;
+  left: 202px;
+  top: 1035px;
+
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
+
+p1 {
+  /* Big Title */
   
-    position: absolute;
-    width: 271px;
-    height: 91px;
-    left: 76px;
-    top: 206px;
+  position: absolute;
+  width: 230px;
+  height: 91px;
+  left: 76px;
+  top: 206px;
   
-    font-family: 'IBM Plex Serif';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 70px;
-    line-height: 91px;
-    /* identical to box height */
-    letter-spacing: 0.03em;
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 91px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
   
-    color: #000000;
-  }
+  color: #000000;
+}
   
   p2 {
-      /* Hope */
+      /* Sub header */
   
     position: absolute;
     width: 107px;
@@ -60,7 +90,7 @@ body {
   }
   
   p3 {
-    /* Sihasin is the Diné Bizaad (Navajo) word for hope. This project imagines the future of environmental restoration through an indigenous lens, inspired by Indigenous Futurism. To find ways of combating climate change and making the Earth a better place, it is necessary to include Indigenous voices, who have been caring for the land long before colonizers came. */
+    /* text */
   
   position: absolute;
   width: 1288px;
